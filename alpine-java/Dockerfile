@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-MAINTAINER Toni Fuentes <tfuentes@ackstorm.com>
+MAINTAINER Toni Fuentes <toni.fuentes@ackstorm.com>
 
 ENV JAVA_HOME=/usr/lib/jvm/default-jvm
 ENV JAVA_VERSION 7
